@@ -6,6 +6,7 @@ include::{partialsdir}/README.adoc[tag=metadata]
 :page-layout: manifesto
 
 v {revnumber}
+
 == Unsere Werte und Überzeugungen
 
 .	Wir glauben an die *technologische Souveränität* der Städte, an die volle Kontrolle und Autonomie ihrer Informations- 
